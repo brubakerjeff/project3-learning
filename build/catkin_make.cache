@@ -1,0 +1,2 @@
+ball_chaser:gazebo_ros_2Dmap_plugin:my_robot
+-DCATKIN_DEVEL_PREFIX=/home/jeffoldubuntu/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jeffoldubuntu/catkin_ws/install -G Unix Makefiles
