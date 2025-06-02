@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "/home/jeffoldubuntu/catkin_ws/devel/lib/python3/dist-packages/ball_chaser/srv/_DriveToTarget.py"
-  "/home/jeffoldubuntu/catkin_ws/devel/lib/python3/dist-packages/ball_chaser/srv/__init__.py"
   "CMakeFiles/ball_chaser_generate_messages_py"
+  "/home/robond/project3-learning/devel/lib/python2.7/dist-packages/ball_chaser/srv/_DriveToTarget.py"
+  "/home/robond/project3-learning/devel/lib/python2.7/dist-packages/ball_chaser/srv/__init__.py"
 )
 
 # Per-language clean rules from dependency scanning.

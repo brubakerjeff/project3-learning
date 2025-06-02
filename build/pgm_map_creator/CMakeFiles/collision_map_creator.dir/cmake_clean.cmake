@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "/home/jeffoldubuntu/catkin_ws/devel/lib/libcollision_map_creator.pdb"
-  "/home/jeffoldubuntu/catkin_ws/devel/lib/libcollision_map_creator.so"
   "CMakeFiles/collision_map_creator.dir/src/collision_map_creator.cc.o"
+  "/home/robond/project3-learning/devel/lib/libcollision_map_creator.pdb"
+  "/home/robond/project3-learning/devel/lib/libcollision_map_creator.so"
 )
 
 # Per-language clean rules from dependency scanning.

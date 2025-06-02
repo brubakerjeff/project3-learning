@@ -1,8 +1,8 @@
-# Install script for directory: /home/jeffoldubuntu/catkin_ws/src/pgm_map_creator/msgs
+# Install script for directory: /home/robond/project3-learning/src/pgm_map_creator/msgs
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/jeffoldubuntu/catkin_ws/install")
+  set(CMAKE_INSTALL_PREFIX "/home/robond/project3-learning/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -30,10 +30,5 @@ endif()
 # Install shared libraries without execute permission?
 if(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
   set(CMAKE_INSTALL_SO_NO_EXE "1")
-endif()
-
-# Is this installation the result of a crosscompile?
-if(NOT DEFINED CMAKE_CROSSCOMPILING)
-  set(CMAKE_CROSSCOMPILING "FALSE")
 endif()
 

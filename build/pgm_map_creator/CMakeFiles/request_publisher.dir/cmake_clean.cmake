@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "/home/jeffoldubuntu/catkin_ws/devel/lib/pgm_map_creator/request_publisher"
-  "/home/jeffoldubuntu/catkin_ws/devel/lib/pgm_map_creator/request_publisher.pdb"
   "CMakeFiles/request_publisher.dir/src/request_publisher.cc.o"
+  "/home/robond/project3-learning/devel/lib/pgm_map_creator/request_publisher.pdb"
+  "/home/robond/project3-learning/devel/lib/pgm_map_creator/request_publisher"
 )
 
 # Per-language clean rules from dependency scanning.
